@@ -9,23 +9,25 @@ html, body{
     width: 100%;
 }
 
-/* body {
+body {
     background-color: black;
     color: white;
-} */
+}
 
-/* #box{
+/*
+#box{
     background-color: crimson;
     height: 300px;
     width: 300px;
-}
+} */
 
-h1{
+
+/* h1{
     color: white;
 } */
 
-/* 
-nav{
+
+/* nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
